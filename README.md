@@ -14,7 +14,7 @@ Features
 
 Project Structure
 
-BombDisposalGame/
+BombDisposalGame
 - bomb.cpp
 -  bomb.h
 - main.cpp
@@ -57,6 +57,4 @@ Future Plans
 - Improved save system
 - Expanded story campaign
 
-Author
-
-Abubakar Babandi
+Author: Abubakar Babandi
