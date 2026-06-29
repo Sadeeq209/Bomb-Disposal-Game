@@ -15,15 +15,15 @@ Features
 Project Structure
 
 BombDisposalGame/
-├── bomb.cpp
-├── bomb.h
-├── main.cpp
-├── mission.cpp
-├── mission.h
-├── profile.cpp
-├── profile.h
-├── utils.cpp
-├── utils.h
+- bomb.cpp
+-  bomb.h
+- main.cpp
+- mission.cpp
+- mission.h
+- profile.cpp
+- profile.h
+- utils.cpp
+- utils.h
 
 File Responsibilities
 
