@@ -1,4 +1,4 @@
-BombDisposalGame
+Bomb Disposal Game
 
 A text-based bomb defusal puzzle game written in C++. Players take on the role of a bomb disposal officer, investigating crime scenes, analyzing evidence, solving logical puzzles, and defusing explosive devices before time runs out.
 
